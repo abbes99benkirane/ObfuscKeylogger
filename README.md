@@ -1,4 +1,6 @@
 # ObfuscKeylogger
+![Keylogger](https://github.com/torino64/ObfuscKeylogger/assets/47543092/d5795c07-6787-47b5-918f-9b35595f760a)
+
 # Overview
 This document describes the functionality and operation of a sophisticated keylogger developed strictly for educational and ethical penetration testing purposes. The keylogger is crafted to monitor and log keystrokes on a system stealthily, then transmit the gathered data to a designated Discord webhook for analysis. It incorporates obfuscation techniques to minimize detection by security software and ensure its operations remain concealed.
 
